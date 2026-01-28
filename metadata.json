@@ -1,0 +1,7 @@
+{
+  "name": "Medicina Digital - Painel Profissional",
+  "description": "Sistema completo de gestão para hospitais e clínicas com cadastro de pacientes, médicos, gestão financeira, gerador de atestados e receitas médicas profissionais.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
